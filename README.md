@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chaitanya Rathod</h1>
 
-<!--
-**chaitanyaRathod14/chaitanyaRathod14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Developer | Docker & Nginx
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications and continuously exploring modern backend technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+💻 Passionate **MERN Stack Developer** with experience in building full-stack web applications.
+
+🐳 Familiar with Docker and Nginx for containerizing applications and configuring web servers.
+
+🤖 Interested in **AI, IoT, and Scalable Web Applications**.
+
+🚀 Love building real-world projects that solve practical problems.
+
+📫 Reach me at: **rathodchaitanya326@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/rathod-chaitanya
+- 📧 Email: rathodchaitanya326@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- C
+- C++
+- Java
+- JavaScript
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+
+### DevOps & Tools
+- Docker
+- Nginx
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+🚌 **PMPML Route Monitoring System**
+- MERN Stack application for smart bus lane monitoring.
+
+🌾 **Agro Shield**
+- IoT-based smart farm protection system.
+
+
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
